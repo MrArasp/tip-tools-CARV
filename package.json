@@ -1,8 +1,0 @@
-{
-  "name": "carv-tip-tool",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@solana/web3.js": "^1.95.2"
-  }
-}
